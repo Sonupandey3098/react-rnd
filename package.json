@@ -31,13 +31,14 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/sonupandey3098/react-rnd-rotate.git"
+    
   },
   "author": "sonu panedy",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/sonupandey3098/react-rnd-rotat/issues"
+    "url": "https://github.com/sonupandey3098/react-rnd-rotate.git/issues"
   },
-  "homepage": "https://github.com/sonupandey3098/react-rnd-rotate",
+  "homepage": "https://github.com/sonupandey3098/react-rnd-rotate.git",
   "devDependencies": {
     "@storybook/addon-actions": "^3.2.6",
     "@storybook/addon-links": "^3.2.6",
